@@ -1,5 +1,5 @@
 _repo: Poems-With-Introduction-and-Notes_54991
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor: &id001
     agent_name: Panin, Ivan
@@ -10,6 +10,9 @@ contributor:
     url: http://www.gutenberg.org/2009/agents/35327
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Panin
   translator: *id001
+covers:
+- cover_type: archival
+  image_path: 54991-h/images/cover.jpg
 creator:
   author:
     agent_name: Pushkin, Aleksandr Sergeevich
@@ -26,6 +29,8 @@ creator:
     - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
     - http://www.museum.ru/Pushkin/
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54991#Poems-With-Introduction-and-Notes
 gutenberg_issued: '2017-06-27'
 gutenberg_type: Text
 identifiers:
