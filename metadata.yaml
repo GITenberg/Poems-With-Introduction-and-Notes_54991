@@ -1,0 +1,42 @@
+_repo: Poems-With-Introduction-and-Notes_54991
+_version: 0.0.1
+contributor:
+  contributor: &id001
+    agent_name: Panin, Ivan
+    alias: Panin, I. (Ivan)
+    birthdate: 1855
+    deathdate: 1942
+    gutenberg_agent_id: '35327'
+    url: http://www.gutenberg.org/2009/agents/35327
+    wikipedia: http://en.wikipedia.org/wiki/Ivan_Panin
+  translator: *id001
+creator:
+  author:
+    agent_name: Pushkin, Aleksandr Sergeevich
+    aliases:
+    - Pushkin, A. S. (Aleksandr Sergeevich)
+    - Пушкин, Александр Сергеевич
+    - Pushkin, Alexander
+    - Poushkin, Alexander
+    birthdate: 1799
+    deathdate: 1837
+    gutenberg_agent_id: '1457'
+    url: http://www.gutenberg.org/2009/agents/1457
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aleksandr_Pushkin
+    - http://www.museum.ru/Pushkin/
+description: ''
+gutenberg_issued: '2017-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54991'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Poems
+
+  With Introduction and Notes'
+url: http://www.gutenberg.org/ebooks/54991
